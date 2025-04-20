@@ -1,1 +1,1 @@
-
+BU EĞİTİLMİŞ BİR YAPAY ZEKA MODELİDİR
