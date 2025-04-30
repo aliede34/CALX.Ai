@@ -1,5 +1,5 @@
 CALX.AI
-CALX.AI, sıfırdan geliştirilen ve tamamen özelleştirilmiş iki yapay zeka modeline sahip, verimli ve güçlü bir yapay zeka çözümüdür. Bu proje, düşük kaynakla yüksek performans elde etmek isteyenler için tasarlandı. CALX.AI, eğitim süreçlerinin ve model yapılandırmalarının şeffaf olduğu, verimli ve taşınabilir yapay zeka çözümleri sunar.
+CALX.AI, sıfırdan geliştirilen ve tamamen özelleştirilmiş bir yapay zeka modeline sahip, verimli ve güçlü bir yapay zeka çözümüdür. Bu proje, düşük kaynakla yüksek performans elde etmek isteyenler için tasarlandı. CALX.AI, eğitim süreçlerinin ve model yapılandırmalarının şeffaf olduğu, verimli ve taşınabilir yapay zeka çözümleri sunar.
 
 🧠 Genel Bakış
 CALX.AI, aşağıdaki BİR modelden oluşmaktadır:
