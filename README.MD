@@ -6,7 +6,7 @@ CALX.AI, aşağıdaki BİR modelden oluşmaktadır:
 
 
 
-1M Parametreli Model — CPU üzerinde çalışacak şekilde optimize edildi ve düşük kaynaklı ortamlarda hızlı ve verimli sonuçlar elde edilmesi sağlandı.
+30M Parametreli Model — CPU üzerinde çalışacak şekilde optimize edildi ve düşük kaynaklı ortamlarda hızlı ve verimli sonuçlar elde edilmesi sağlandı.
 
  model  sıfırdan eğitilmiş ve hiçbir hazır ağırlık kullanılmamıştır.
 
